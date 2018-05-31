@@ -1,0 +1,14 @@
+{
+	"name": "/getversion",
+	"description": "Return the Craft version",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Karl Jussila",
+			"homepage": "kraftwerkdesign.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
