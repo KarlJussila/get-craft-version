@@ -16,22 +16,4 @@ To install Get Version, follow these steps:
 
 Get Version works on Craft 2.4.x and Craft 2.5.x.
 
-## Get Version Overview
-
--Insert text here-
-
-## Configuring Get Version
-
--Insert text here-
-
-## Using Get Version
-
--Insert text here-
-
-## Get Version Roadmap
-
-Some things to do, and ideas for potential features:
-
-* Release it
-
 Brought to you by [Karl Jussila](kraftwerkdesign.com)
